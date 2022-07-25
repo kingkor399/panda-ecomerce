@@ -3,7 +3,7 @@
 }
 
 .background-color{
-    background:#FEEAE9;
+    background-color:#FEEAE9;
     background-size: cover;
 }
 
@@ -17,4 +17,8 @@
 
 .shoe-color{
     background: linear-gradient(170.41deg, #4289FF -10.89%, #3F07F8 92.77%);
+}
+
+.email-bg{
+    background-color:#FFF2F1;
 }
